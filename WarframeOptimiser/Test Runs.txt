@@ -1,0 +1,13 @@
+{24,15,17,11,20,18,1,2} ()Restricted to 60) (68) says (59)
+
+pressure point(9), Spoiled strike(7) - Damage
+berserker(9)						- Attack Speed
+Organ Shatter(9)					- Crit
+Vicious Frost(7), Voltaic Strike(7), NorthWind(11) , FocusEnergy(9) - Elements
+
+{24,19,13,15,20,11,1,2}(72) Unbounded Restriction 
+
+pressure point(9), Spoiled strike(7) - Damage
+berserker(9)						- Attack Speed
+TrueSteel(9),Organ Shatter(9)					- Crit
+Shocking Touch(11), Vicious Frost(7), NorthWind(11) - elements

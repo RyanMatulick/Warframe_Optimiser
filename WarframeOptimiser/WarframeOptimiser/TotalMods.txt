@@ -1,0 +1,82 @@
+Agile Aim	
+Ammo Drum
+Argon Scope	
+Apex Predator - Exclusive to PvP	 	
+Bane of Corpus
+Bane of Grineer
+Bane of Infested
+Bladed Rounds
+Catalyzer Link
+Combustion Beam
+Comet Rounds - Exclusive to PvP	 	
+Continuous Misery
+Crash Course
+Critical Delay	
+Cryo Rounds
+Eagle Eye
+Fanged Fusillade
+Fast Hands
+Firestorm
+Hammer Shot
+Heavy Caliber	 	
+Hellfire
+High Voltage
+Hush
+Infected Clip
+Lucky Shot - Exclusive to PvP	 	
+Magazine Warp
+Malignant Force
+Metal Auger
+Piercing Caliber
+Piercing Hit
+Point Strike
+Primed Bane of Corpus	
+Primed Bane of Grineer	
+Primed Bane of Infested	
+Primed Fast Hands
+Recover - Exclusive to PvP	 	
+Rifle Aptitude
+Rime Rounds
+Ripper Rounds - Exclusive to PvP	 	
+Rupture
+Sawtooth Clip
+Serrated Rounds - Exclusive to PvP	 	
+Serration
+Shred	
+Sinister Reach
+Speed Trigger
+Split Chamber
+Stabilizer
+Stormbringer
+Terminal Velocity
+Thermite Rounds
+Twitch
+Vanquished Prey - Exclusive to PvP	 	
+Vile Acceleration
+Vile Precision	
+Vital Sense
+Wildfire
+
+SNIPER:
+Charged Chamber
+Primed Chamber
+Depleted Reload
+Lie in Wait - Exclusive to PvP
+Sniper Ammo Mutation
+
+Bow:
+Arrow Mutation
+Feathered Arrows
+Plan B
+Soaring Strike
+Thunderbolt
+
+PRIMARY WEAPON AUGMENTS
+
+Eroding Blight - Embolist
+Entropy Burst - Supra
+Scattered Justice - Hek
+Shattering Justice - Sobek
+Lasting Purity - Vulkar
+Deadly Sequence - Grinlock
+Gilded Truth - Burston Prime

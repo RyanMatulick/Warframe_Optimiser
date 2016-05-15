@@ -1,0 +1,58 @@
+Argon Scope
+Bane of Corpus
+Bane of Grineer
+Bane of Infested
+Bladed Rounds
+Comet Rounds - Exclusive to PvP
+Continuous Misery
+Crash Course
+Critical Delay
+Cryo Rounds
+Fanged Fusillade
+Fast Hands
+Hammer Shot
+Heavy Caliber
+Hellfire
+High Voltage
+Infected Clip
+Magazine Warp
+Malignant Force
+Piercing Caliber
+Piercing Hit
+Point Strike
+Primed Bane of Corpus
+Primed Bane of Grineer
+Primed Bane of Infested
+Primed Fast Hands
+Rifle Aptitude
+Rime Rounds
+Ripper Rounds - Exclusive to PvP
+Rupture
+Sawtooth Clip
+Serrated Rounds - Exclusive to PvP
+Serration
+Shred
+Speed Trigger
+Split Chamber
+Stormbringer
+Thermite Rounds
+Vile Acceleration
+Vital Sense
+Wildfire
+
+SNIPER:
+Charged Chamber
+Primed Chamber
+Depleted Reload
+Lie in Wait - Exclusive to PvP
+
+
+
+PRIMARY WEAPON AUGMENTS:
+Eroding Blight - Embolist
+Entropy Burst - Supra
+Scattered Justice - Hek
+Shattering Justice - Sobek
+Lasting Purity - Vulkar
+Deadly Sequence - Grinlock
+Gilded Truth - Burston Prime
